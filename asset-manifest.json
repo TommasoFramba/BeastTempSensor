@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/BeastTempSensor/static/css/main.31d6cfe0.css",
-    "main.js": "/BeastTempSensor/static/js/main.28ebc5c5.js",
+    "main.js": "/BeastTempSensor/static/js/main.afdb085e.js",
     "index.html": "/BeastTempSensor/index.html",
-    "main.28ebc5c5.js.map": "/BeastTempSensor/static/js/main.28ebc5c5.js.map"
+    "main.afdb085e.js.map": "/BeastTempSensor/static/js/main.afdb085e.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.28ebc5c5.js"
+    "static/js/main.afdb085e.js"
   ]
 }
